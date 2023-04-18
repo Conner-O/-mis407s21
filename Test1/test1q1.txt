@@ -1,0 +1,34 @@
+Conner@DESKTOP-B0Q6TUD MINGW64 /C/mis407/Class-Notes (main)
+$ cd /C/
+
+Conner@DESKTOP-B0Q6TUD MINGW64 /C
+$ cd mis407
+
+Conner@DESKTOP-B0Q6TUD MINGW64 /C/mis407
+$ cd mis407s21-student-15
+
+Conner@DESKTOP-B0Q6TUD MINGW64 /C/mis407/mis407s21-student-15 (main)
+$ git pull
+git Already up to date.
+
+Conner@DESKTOP-B0Q6TUD MINGW64 /C/mis407/mis407s21-student-15 (main)
+$ git push
+Everything up-to-date
+
+Conner@DESKTOP-B0Q6TUD MINGW64 /C/mis407/mis407s21-student-15 (main)
+$ mkdir Test1
+
+Conner@DESKTOP-B0Q6TUD MINGW64 /C/mis407/mis407s21-student-15 (main)
+$ cd Test1
+
+Conner@DESKTOP-B0Q6TUD MINGW64 /C/mis407/mis407s21-student-15/Test1 (main)
+$ echo "print('Your interest earned this year on 500 dollar investment at 4%:', 500 * 0.04)" >> test1q1.py
+
+Conner@DESKTOP-B0Q6TUD MINGW64 /C/mis407/mis407s21-student-15/Test1 (main)
+$ ls -1
+test1q1.py
+
+Conner@DESKTOP-B0Q6TUD MINGW64 /c/mis407/mis407s21-student-15/test1 (main)
+$ python test1q1.py
+bash: /c/Users/Conner/AppData/Local/Microsoft/WindowsApps/python: Permission denied
+

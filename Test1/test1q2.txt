@@ -1,0 +1,19 @@
+
+Conner@DESKTOP-B0Q6TUD MINGW64 ~
+$ cd /c/mis407/mis407s21-student-15
+
+Conner@DESKTOP-B0Q6TUD MINGW64 /c/mis407/mis407s21-student-15 (main)
+$ cd /Test1
+bash: cd: /Test1: No such file or directory
+
+Conner@DESKTOP-B0Q6TUD MINGW64 /c/mis407/mis407s21-student-15 (main)
+$ cd Test1
+
+Conner@DESKTOP-B0Q6TUD MINGW64 /c/mis407/mis407s21-student-15/Test1 (main)
+$ git pull
+Already up to date.
+
+Conner@DESKTOP-B0Q6TUD MINGW64 /c/mis407/mis407s21-student-15/Test1 (main)
+$ git branch
+* main
+

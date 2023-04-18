@@ -1,0 +1,85 @@
+Most popular product by volume in each store in JOHNSON county:
+  1. Keystone Liquor Hennessy VS         2003.55 liters
+  2. Hy-Vee #2 / Coralville Titos Handmade Vodka         6305.40 liters
+  3. The Depot North Liberty Titos Handmade Vodka          277.11 liters
+  4. Southside Liquor & Tobacco / Iowa City Hennessy VS         2626.20 liters
+  5. Smokin' Joe's #12 Tobacco and Liquor Outlet Hawkeye Vodka          537.23 liters
+  6. Hy-Vee Food Store / Coralville Titos Handmade Vodka         8670.00 liters
+  7. Wal-Mart 1721 / Iowa City Hawkeye Vodka         2737.50 liters
+  8. Hy-Vee Food Store #2 / Iowa City Titos Handmade Vodka         2607.63 liters
+  9. City Liquor Blue Ox Vodka          301.50 liters
+ 10. Bootleggin' Barzini's Fin Titos Handmade Vodka          506.10 liters
+ 11. John's Grocery Hawkeye Vodka         1389.90 liters
+ 12. Wal-Mart 2827 / Coralville Titos Handmade Vodka         1926.00 liters
+ 13. Sauce / Iowa City Hawkeye Vodka          425.70 liters
+ 14. The Secret Cellar Titos Handmade Vodka          275.27 liters
+ 15. Liquor Downtown Hawkeye Vodka          758.70 liters
+ 16. Kum & Go #51 / Iowa City Titos Handmade Vodka          222.75 liters
+ 17. Hartig Drug Store #10 / Iowa City Black Velvet         1423.42 liters
+ 18. Hy-Vee Wine and Spirits / Iowa City Titos Handmade Vodka        14208.60 liters
+ 19. Kum & Go #507 / North Liberty Hawkeye Vodka          626.62 liters
+ 20. Fareway Stores #950 / Iowa City Black Velvet         1255.50 liters
+ 21. Sauce Titos Handmade Vodka           70.80 liters
+ 22. Smokin' Joe's #18 Tobacco and Liquor Outlet Hennessy VS          688.50 liters
+ 23. Kum & Go #422 / Iowa City Hawkeye Vodka          951.75 liters
+ 24. Sam's Mainstreet Market / Solon Titos Handmade Vodka         1059.00 liters
+ 25. Kirkwood Liquor & Tobacco Hennessy VS          508.70 liters
+ 26. Kum & Go #53 / Iowa City Hawkeye Vodka          512.35 liters
+ 27. The Station II / North Liberty Fireball Cinnamon Whiskey          420.45 liters
+ 28. Johncy's Liquor Store Titos Handmade Vodka         1919.40 liters
+ 29. L&M Mighty Shop Hawkeye Vodka          955.85 liters
+ 30. 380BP / Swisher Black Velvet          737.10 liters
+ 31. Kum & Go #3502 / Iowa City Black Velvet          366.09 liters
+ 32. CVS Pharmacy #8547 / Iowa City Fleischmanns 80prf Vodka          357.00 liters
+ 33. GM Mart / Iowa City Fireball Cinnamon Whiskey          582.30 liters
+ 34. The Depot Oxford LLC Black Velvet          241.20 liters
+ 35. Casey's General Store #1695 / Solon Fireball Cinnamon Whiskey          191.10 liters
+ 36. Hy-Vee Drugstore / Iowa City Titos Handmade Vodka         2255.52 liters
+ 37. Kum & Go #201 / Coralville Hawkeye Vodka          739.23 liters
+ 38. Kum & Go #524/ Coralville Black Velvet          401.61 liters
+ 39. Smokin Joe's # 6 Tobacco and Liquor Outlet Hennessy VS          619.80 liters
+ 40. Hy-Vee Food Store / Iowa City Titos Handmade Vodka         4249.20 liters
+ 41. The Depot Tiffin McCormick 80prf Vodka PET          386.25 liters
+ 42. Fareway #193 Captain Morgan Original Spiced Barrel          577.50 liters
+ 43. Costco Wholesale #1111 / Coralville Kirkland Signature American Vodka        56227.50 liters
+ 44. Walgreens #05977 / Coralville Hawkeye Vodka          225.37 liters
+ 45. Casey's General Store #3858 - Iowa City Black Velvet          399.00 liters
+ 46. Target Store T-1113 / Coralville Titos Handmade Vodka         1239.00 liters
+ 47. Cedar Ridge Vineyards Cedar Ridge Bourbon         1003.50 liters
+ 48. Kum & Go #521  /  Coralville Hawkeye Vodka          356.00 liters
+ 49. Fareway Stores #034 / Iowa City Black Velvet         2116.50 liters
+ 50. Kum & Go #504 / Iowa City Hawkeye Vodka          191.00 liters
+ 51. Urban Fuel LLC / North Liberty Black Velvet          203.40 liters
+ 52. Kum & Go #52 / Iowa City Hawkeye Vodka          357.75 liters
+ 53. The Depot Coralville Titos Handmade Vodka          395.22 liters
+ 54. Casey's General Store #2667 / Tiffin Black Velvet          690.00 liters
+ 55. goPuff / Iowa City Burnetts Vodka 80prf          927.00 liters
+ 56. Fareway Stores #993 / North Liberty Black Velvet         1704.75 liters
+ 57. Walgreens #05077 / Iowa City Hennessy VS          324.00 liters
+ 58. Casey's General Store # 2918/ Coralville Hawkeye Vodka          235.50 liters
+ 59. Casey's General Store #3645 / Lone Tree Black Velvet          360.00 liters
+ 60. Casey's General Store #3384 / Solon Black Velvet          476.62 liters
+ 61. Casey's General Store #2788 / North Liberty Hawkeye Vodka          330.00 liters
+ 62. Walgreens #11710 / North Liberty Titos Handmade Vodka          354.00 liters
+ 63. Casey's General Store #3322 / Iowa City McCormick 80prf Vodka PET           90.00 liters
+ 64. Casey's General Store #2779 / Coralville Hawkeye Vodka          207.25 liters
+ 65. Iowa City Fast Break Five O'Clock Vodka          142.70 liters
+ 66. Liberty View Wine and Spirits Henry Mckenna Single Barrel 10YR 100prf            4.50 liters
+ 67. Casey's General Store #2512 / Hills Hawkeye Vodka          355.50 liters
+ 68. Kum & Go #137 / Tiffin Black Velvet          277.24 liters
+ 69. Casey's General Store #2479 / North Liberty Black Velvet           70.50 liters
+ 70. Fareway Stores #193 / Tiffin Black Velvet         1550.60 liters
+ 71. Tobacco Outlet Plus #537 / Iowa City Black Velvet          402.80 liters
+ 72. City Liquor / Iowa City Titos Handmade Vodka          907.80 liters
+ 73. Iowa City BP Black Velvet           73.50 liters
+ 74. Casey's General Store # 2781/ Iowa City Hawkeye Vodka          187.50 liters
+ 75. Walgreens #10985 / Coralville Titos Handmade Vodka          106.50 liters
+ 76. Target Store T-3374 / Iowa City Titos Handmade Vodka          441.00 liters
+ 77. Downtown Liquor / Iowa City Hawkeye Vodka         1770.60 liters
+ 78. Liberty View Wine & Spirits / North Liberty Titos Handmade Vodka          157.80 liters
+ 79. Bootlegging Barzinis Titos Handmade Vodka          519.30 liters
+ 80. Yesway Store # 10026/ Mason City Fireball Cinnamon Whiskey           76.20 liters
+ 81. Hawkeye Smoke Shop Hawkeye Vodka           80.10 liters
+ 82. Liquor Downtown / Iowa City Fireball Cinnamon Whiskey          157.50 liters
+ 83. Hawkeye Smoke and Liquor / Iowa City Hawkeye Vodka          126.00 liters
+ 84. Hawkeye Liquor & Tobacco / Iowa City Hawkeye Vodka           60.60 liters

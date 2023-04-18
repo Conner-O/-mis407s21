@@ -1,0 +1,29 @@
+PS C:\MIS407> & C:/Users/Conner/AppData/Local/Programs/Python/Python38/python.exe c:/MIS407/mis407s21-student-15/IA01/letters.py
+Enter line to count: Mommy made me mash my m&m's oh my!
+Letter:  a Count:  2 Frequency:  0.08333333333333333
+Letter:  b Count:  0 Frequency:  0.0
+Letter:  c Count:  0 Frequency:  0.0
+Letter:  d Count:  1 Frequency:  0.041666666666666664
+Letter:  e Count:  2 Frequency:  0.08333333333333333
+Letter:  f Count:  0 Frequency:  0.0
+Letter:  g Count:  0 Frequency:  0.0
+Letter:  h Count:  2 Frequency:  0.08333333333333333
+Letter:  i Count:  0 Frequency:  0.0
+Letter:  j Count:  0 Frequency:  0.0
+Letter:  k Count:  0 Frequency:  0.0
+Letter:  l Count:  0 Frequency:  0.0
+Letter:  m Count:  10 Frequency:  0.4166666666666667
+Letter:  n Count:  0 Frequency:  0.0
+Letter:  o Count:  2 Frequency:  0.08333333333333333
+Letter:  p Count:  0 Frequency:  0.0
+Letter:  q Count:  0 Frequency:  0.0
+Letter:  r Count:  0 Frequency:  0.0
+Letter:  s Count:  2 Frequency:  0.08333333333333333
+Letter:  t Count:  0 Frequency:  0.0
+Letter:  u Count:  0 Frequency:  0.0
+Letter:  v Count:  0 Frequency:  0.0
+Letter:  w Count:  0 Frequency:  0.0
+Letter:  x Count:  0 Frequency:  0.0
+Letter:  y Count:  3 Frequency:  0.125
+Letter:  z Count:  0 Frequency:  0.0
+PS C:\MIS407>
